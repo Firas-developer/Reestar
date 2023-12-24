@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin: 70px;
+}
+.section1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.section1 p{
+    color: gray;
+}
+.section2__receipe{
+    display: inline-block;
+    border: solid 3px black;
+    margin: 10px;
+    margin-left: 40px;
+    padding: 5px;
+}
+.section2__receipe h2{
+    text-align: center;
+}
+.section2__receipe img{
+    padding-left: 40px;
+}
+.section2__button{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin-left: 90px;
+}
+.section3{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    padding-left: 600px;
+}
+.section3__submit{
+    background-color: yellow;
+    color: black;
+    width: 500px;
+    margin-left: -100px;
+}
